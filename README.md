@@ -1,10 +1,5 @@
-# Web 1A - TP1 et TP2
+# Web 1A - TP3
 
-Lors de ce premier TP les étudiants doivent créer un Web service en utilisant Python.
+Lors du TP3 les étudiants doivent utiliser en plus une base de données.
 
-TODO list :
-
-  - [x] Publier le code minimal d'une app Flask pour Heroku
-  - [ ] Finir la rédaction du sujet et des instructions
-
-En attendant, voici les instructions de Heroku ; celles-ci doivent être adaptées à notre cours :  [https://devcenter.heroku.com/articles/getting-started-with-python](https://devcenter.heroku.com/articles/getting-started-with-python)
+Pour plus de détails : https://e-learning.imerir.com/course/view.php?id=541#section-3
